@@ -128,10 +128,14 @@ body {
   line-height: 1.5; }
 
 a {
-  color: #0052cc; }
+  color: #4169e1; /* LaTeX-style Royal Blue */
+  text-decoration: none;
+}
 
 a:hover {
-  color: #003d99; }
+  color: #27408b; /* Slightly darker blue for hover */
+  text-decoration: underline;
+}
 
 h1,
 h2,
